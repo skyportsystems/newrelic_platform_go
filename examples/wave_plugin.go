@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/yvasiyarov/newrelic_platform_go"
+	"github.com/skyportsystems/newrelic_platform_go"
 )
 
 type WaveMetrica struct {

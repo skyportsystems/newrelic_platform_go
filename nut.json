@@ -1,6 +1,6 @@
 {
   "Version": "0.0.1",
-  "Vendor": "yvasiyarov",
+  "Vendor": "skyportsystems",
   "Authors": [
     {
       "FullName": "Yuriy Vasiyarov",
@@ -11,5 +11,5 @@
     "README.md",
     "LICENSE"
   ],
-  "Homepage": "https://github.com/yvasiyarov/newrelic_platform_go"
+  "Homepage": "https://github.com/skyportsystems/newrelic_platform_go"
 }
