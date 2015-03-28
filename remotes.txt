@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/newrelic_platform_go (fetch)
+origin	git@github.com:skyportsystems/newrelic_platform_go (push)
+upstream	https://github.com/yvasiyarov/newrelic_platform_go.git (fetch)
+upstream	https://github.com/yvasiyarov/newrelic_platform_go.git (push)
